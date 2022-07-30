@@ -2,9 +2,9 @@
 
 ## *Develoer Orpon*
 
-**MyTurMap Saver App** This App Save The location in google map which location do you want
+**EmotionStatusEmoji App  App** This App Save thw Emoji Which login throw gmail
 
-Time spent: **1** Day **6** hours spent in total
+Time spent: **3** Day **6** hours spent in total
 
 ## Functionality
 
